@@ -1,4 +1,4 @@
-# ME341
+# Linear System Dynamics
 
 Interactive course material for Linear System Dynamics. The lecture covers DC motor poles, zeros, and damping, with interactive plots and a damping demonstration.
 
